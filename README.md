@@ -5,8 +5,9 @@ The system should capture the account holder’s name, account number, balance, 
 
 
 
-
 #Features
+Features
+
 Create New Bank Accounts:
 Capture details like the account holder’s name, account number, and initial balance.
 Check Account Balance:
